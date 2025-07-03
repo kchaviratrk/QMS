@@ -1,0 +1,21 @@
+# Requerimientos iniciales para el proyecto SAC
+
+## Objetivo
+Migrar y mejorar el sistema de documentación SAC de serverjz a la Intranet, cumpliendo con los estándares de ISO9001:2015.
+
+## Alcance
+- Revisión y análisis del sistema actual (documentos y HTML).
+- Diseño de una solución centralizada y accesible en la Intranet.
+- Implementación de control de versiones y permisos.
+- Cumplimiento de ISO9001:2015.
+
+## Requerimientos funcionales
+- Acceso seguro y controlado a la documentación.
+- Búsqueda eficiente de documentos.
+- Registro de cambios y versiones.
+- Interfaz amigable para usuarios y administradores.
+
+## Requerimientos no funcionales
+- Seguridad y respaldo de la información.
+- Facilidad de mantenimiento y escalabilidad.
+- Compatibilidad con navegadores modernos.
