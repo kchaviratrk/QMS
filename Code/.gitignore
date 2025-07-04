@@ -1,0 +1,32 @@
+# Node
+node_modules/
+
+# Vite
+/dist/
+.vite/
+
+# React/TypeScript
+*.log
+*.tsbuildinfo
+*.env*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+build/
+dist/
+.eggs/
+*.egg-info/
+**/site-packages/
+**/__pypackages__/
+**/.mypy_cache/
+**/.pytest_cache/
+**/pip-wheel-metadata/
+#python/env/
+python/*
+# MacOS
+.DS_Store
