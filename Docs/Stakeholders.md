@@ -4,7 +4,7 @@ Lista de stakeholders, roles y canales de comunicación.
 
 | Nombre        | Rol(s) | Contacto                    | Canal principal |
 | ------------- | ------ | --------------------------- | --------------- |
-| kaleb Chavira | Todos  | Kaleb@trackonomysystems.com |                 |
+| kaleb Chavira | Todos  | kaleb@trackonomysystems.com |                 |
 
 ## Notas
 
