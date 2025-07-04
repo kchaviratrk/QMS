@@ -1,16 +1,48 @@
-# QMS - Sistema de Gestión de Calidad
+# QMS - Quality Management System
 
-_Este proyecto anteriormente se llamaba SAC (Sistema de Administración de Calidad)._
+_This project was previously called SAC (Quality Management System)._
 
-Este proyecto tiene como objetivo migrar y mejorar el sistema de documentación QMS de serverjz a la Intranet, cumpliendo con ISO9001:2015.
+QMS aims to migrate and improve the documentation system from serverjz to the Intranet, ensuring compliance with ISO9001:2015. The project includes document control, versioning, user roles, and auditability, with a focus on usability and security.
 
-## Estructura principal
+## Main Structure
 
-- Documentación en Docs/
-- Código fuente en src/
-- Scripts en scripts/
-- Pruebas en tests/
+- Documentation: `Docs/`
+- Source code: `src/`
+- Scripts: `scripts/`
+- Tests: `tests/`
+
+## Key Features
+
+- Centralized document management and version control
+- User and role management (read, write, approve, admin)
+- Audit trails and compliance with ISO9001:2015
+- Migration tools for legacy SAC system
+- Modern, user-friendly interface
+- Secure access and permission system
+
+## Project Status
+
+- Project renamed from SAC to QMS (see `changelog.md`)
+- Initial requirements, roadmap, and project plan defined
+- Kickoff meeting notes and stakeholder list available in `Docs/`
+- Legacy HTML and migration scripts included in `src/`
+- Templates for issues and pull requests in `.github/`
+
+## Getting Started
+
+1. Clone the repository
+2. Set up the Python environment (see `Docs/Setup.md`)
+3. Install dependencies listed in `Docs/Requirements/Requirements.txt`
+4. Run scripts or the main app as needed
+
+## Contributing
+
+See `CONTRIBUTING.md` for guidelines. Please follow the code of conduct in `CODE_OF_CONDUCT.md`.
+
+## License
+
+MIT License. See `LICENSE` for details.
 
 ---
 
-_Fecha de inicio: 4 de julio del 2025_
+_Project start date: July 4, 2025_
