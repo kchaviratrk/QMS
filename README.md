@@ -1,6 +1,8 @@
 # QMS - Quality Management System
 
-_This project was previously called SAC (Quality Management System)._
+_Este proyecto utiliza TypeScript, Vite, Node.js y Python._
+
+_Este proyecto se llamaba anteriormente SAC (Quality Management System)._
 
 QMS aims to migrate and improve the documentation system from serverjz to the Intranet, ensuring compliance with ISO9001:2015. The project includes document control, versioning, user roles, and auditability, with a focus on usability and security.
 
@@ -32,8 +34,10 @@ QMS aims to migrate and improve the documentation system from serverjz to the In
 
 1. Clone the repository
 2. Set up the Python environment (see `Docs/Setup.md`)
-3. Install dependencies listed in `Docs/Requirements/Requirements.txt`
-4. Run scripts or the main app as needed
+3. Install Python dependencies listed in `Docs/Requirements/Requirements.txt`
+4. Install Node.js dependencies: `npm install` (requiere Node.js y npm)
+5. Para desarrollo frontend, usa Vite: `npm run dev`
+6. Run scripts or the main app as needed
 
 ## Contributing
 
