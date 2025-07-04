@@ -10,6 +10,17 @@ _This project was previously called SAC._
 - Documented and clarified key questions and answers from the kickoff meeting in Docs/MeetingNotes/PreguntasKickoff.txt.
 - Added clarifications in all main documentation and code files about the name change and the historical context of the project.
 - Maintained traceability and migration context for future audits and references.
+- Created the Code/ folder with subfolders backend-node, backend-python, and frontend, clearly separating system components.
+- Implemented a modern frontend in Code/frontend/ using React (.tsx), TypeScript, and Vite, with advanced TypeScript and ESLint configuration.
+- Added a Node.js backend (Code/backend-node/) with modular structure, unit tests, and ES module usage.
+- Added a Python backend (Code/backend-python/) with modular structure, unit tests, and requirements.txt.
+- Added multiple documents and templates in Docs/ (Backlog, DefinitionOfDone, ProjectPlan, Schedule, Setup, Stakeholders, ISO9001 Manual, meeting notes, requirements, etc.).
+- Added utility scripts in scripts/ (script_utils.sh).
+- Standardized .gitattributes and .gitignore configuration for Node, Python, and frontend.
+- Added initial unit tests in all main modules.
+- Created specific README files for each submodule (frontend, backend-node, backend-python) with instructions and recommendations.
+- Added issue and pull request templates in .github/.
+- Documented the integration of new folders and technologies in the overall project structure.
 
 ## 2025-07-03
 
