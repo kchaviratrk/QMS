@@ -1,0 +1,81 @@
+# Preguntas y Respuestas - Junta de Requisitos y Kick Off SAC
+
+Fecha: 4 de julio de 2025
+
+1. Objetivo y alcance del proyecto:
+Respuesta: Sistema de control de documentos QMS o SAC, cuyo objetivo es centralizar y gestionar de manera eficiente los documentos del Sistema de Gestión de Calidad (QMS) o Sistema de Aseguramiento de Calidad (SAC). El sistema debe permitir la creación, revisión, aprobación, distribución y archivo de documentos, asegurando el cumplimiento normativo y la trazabilidad de los cambios.
+
+2. Funcionalidades mínimas requeridas:
+Respuesta: Sistema de control de usuarios, documentos, revisiones, aprobaciones, distribución y archivo de documentos. Debe permitir la búsqueda avanzada, la gestión de versiones y el seguimiento de cambios.
+
+3. Procesos/documentos prioritarios para migrar:
+Respuesta: Identificar las funcionalidades básicas del muestreo de los archivos existentes y priorizar aquellos que son críticos para el funcionamiento del QMS/SAC. Esto incluye documentos de políticas, procedimientos, registros de auditoría y otros documentos clave.
+
+4. Requisitos funcionales clave:
+Respuesta: Es básico y elemental el control de documentos, en su modo de visualización, descarga y consulta, además de permitir la gestión de versiones y el seguimiento de cambios. El sistema debe ser intuitivo y fácil de usar para los usuarios finales, con una interfaz amigable que facilite la navegación y búsqueda de documentos.
+El sistema debe permitir la creación, revisión, aprobación y distribución de documentos, así como el archivo de versiones anteriores para garantizar la trazabilidad de los cambios.
+El sistema debe permitir la creación, revisión y aprobación de usuarios, para controlar el acceso a los documentos y garantizar que solo los usuarios autorizados puedan realizar acciones específicas.
+
+5. Requisitos no funcionales (seguridad, rendimiento, compatibilidad, etc.):
+Respuesta: El sistema debe ser seguro pero abierto, es decir, debe garantizar la protección de los datos y la integridad de los documentos, pero también permitir un acceso controlado y fácil a los usuarios autorizados. Debe ser compatible con los sistemas existentes y tener un rendimiento adecuado para manejar grandes volúmenes de documentos sin afectar la velocidad de acceso.
+La distribución de este sistema será mediante intranet o red local, asegurando que los documentos sean accesibles para los usuarios autorizados sin comprometer la seguridad y la confidencialidad de la información.
+El sistema debe ser susceptible a cambios y actualizaciones futuras, permitiendo la incorporación de nuevas funcionalidades o mejoras sin afectar la operatividad actual.
+El sistema debe contener un manual de usuario detallado y documentación técnica para facilitar la capacitación y el soporte tanto de IT como del departamento de desarrollo.
+
+6. Estándares o normativas a cumplir (ej. ISO9001:2015):
+Respuesta: El sistema debe tener las adecuaciones necesarias para cumplir con las normativas, asegurando que todos los procesos de gestión documental estén alineados con los requisitos de calidad establecidos por esta norma. Esto incluye la trazabilidad de documentos, la gestión de cambios y la auditoría de procesos.
+
+7. Usuarios finales y roles:
+Respuesta: El sistema debe permitir la creación, revisión y aprobación de usuarios, para controlar el acceso a los documentos y garantizar que solo los usuarios autorizados puedan realizar acciones específicas.
+- Nivel 1: Usuario solo lectura, con la capacidad de descargar o visualizar documentos, sin posibilidad de edición o modificación.
+- Nivel 2: Usuario con permisos de lectura, escritura y edición de documentos, con permisos para crear, editar o descargar documentos.
+- Nivel 3: Usuario aprobador, con permisos para revisar y aprobar documentos. Este es el nivel inicial de aprobación dentro de una cadena de aprobación, y puede ser el jefe directo del usuario de nivel 2.
+- Nivel 4: Administrador de documentos, con permisos para crear, editar, aprobar y eliminar documentos, así como aprobar o rechazar documentos. Este es el nivel más alto de aprobación dentro de una cadena de aprobación, además de ser el administrador de versiones, requisitos de seguridad y auditoría.
+- Nivel 5: Administrador del sistema, con permisos para gestionar usuarios, configurar el sistema y realizar auditorías de seguridad. Este usuario tiene acceso completo a todas las funcionalidades del sistema y es responsable de la administración general del mismo.
+
+8. Permisos o niveles de acceso requeridos:
+Respuesta: El sistema debe permitir la asignación de permisos específicos a cada nivel de usuario, asegurando que cada uno tenga acceso solo a las funcionalidades necesarias para su rol.
+El sistema debe permitir la creación de archivos con sus respectivas versiones, asegurando que los usuarios puedan acceder a las versiones anteriores de los documentos cuando sea necesario, así como un nivel de confiabilidad de los documentos, asegurando que los usuarios puedan confiar en la integridad y autenticidad de los documentos almacenados, y un nivel de visualización para archivos que no deban tener alcance público.
+El sistema debe permitir la creación, revisión y aprobación de usuarios, para controlar el acceso a los documentos y garantizar que solo los usuarios autorizados puedan realizar acciones específicas.
+
+9. Integraciones con otros sistemas:
+Respuesta: No definido en este momento, pero se considerará la posibilidad de integraciones futuras con sistemas existentes, herramientas de gestión documental o la creación de API propias.
+
+10. Dependencias técnicas o de negocio:
+Respuesta: Es importante identificar las dependencias con otros sistemas y procesos de negocio que puedan afectar la implementación y operación del sistema.
+Las dependencias técnicas serán definidas en los requisitos funcionales y no funcionales, asegurando que el sistema sea compatible con la infraestructura existente y pueda integrarse con otros sistemas si es necesario.
+
+11. Fechas clave y entregables esperados:
+Respuesta: Se definirán las fechas clave para la implementación del sistema y los entregables esperados en cada fase del proyecto.
+Se considerará la posibilidad de integraciones futuras con sistemas existentes, herramientas de gestión documental o la creación de API propias.
+
+12. Criterios de éxito del proyecto:
+Respuesta: Se establecerán métricas claras para evaluar el éxito del proyecto, incluyendo la satisfacción del usuario, el cumplimiento de los plazos y la calidad de la documentación generada.
+Se evaluará la conformidad con los requisitos funcionales y no funcionales, la seguridad y la integridad de los datos, y la capacidad del sistema para manejar grandes volúmenes de documentos sin afectar la velocidad de acceso.
+El sistema debe cumplir las expectativas del departamento de QMS o QA, asegurando que sus procesos se ejecuten en el día a día y en intervenciones ante una o más auditorías internas y/o externas, así como la capacidad de generar informes y métricas de desempeño del sistema.
+
+13. Riesgos identificados:
+Respuesta: Identificar los riesgos potenciales que puedan afectar la implementación y operación del sistema, incluyendo riesgos técnicos, de recursos y de tiempo.
+Se considerará la posibilidad de integraciones futuras con sistemas existentes, herramientas de gestión documental o la creación de API propias.
+
+14. Limitaciones técnicas, de recursos o de tiempo:
+Respuesta: Identificar las limitaciones que puedan impactar el desarrollo y la implementación del sistema, incluyendo restricciones de presupuesto, recursos humanos y tecnológicos.
+
+15. Canal principal de comunicación:
+Respuesta: Slack Channel: #qms-project
+
+16. Frecuencia de reuniones de seguimiento:
+Respuesta: Por definir.
+
+17. Proceso para cambios de requerimientos:
+Respuesta: En esta etapa los requisitos funcionales y no funcionales no han sido formulados, por tanto, cualquier cambio tendrá que ser revisado posteriormente con el equipo de desarrollo una vez se hayan definido los requisitos iniciales. Cualquier cambio deberá ser documentado y aprobado por el equipo de proyecto antes de su implementación.
+
+18. Próximos pasos y responsables:
+Respuesta: Se asignarán responsabilidades específicas a cada miembro del equipo para asegurar el avance del proyecto y el cumplimiento de los plazos establecidos.
+
+---
+
+Notas adicionales:
+Se hará un análisis del sistema SAC actual para identificar las funcionalidades y procesos existentes que deben ser replicados o mejorados en el nuevo sistema. Esto incluirá la revisión de los documentos actuales, la identificación de las necesidades de los usuarios y la evaluación de las herramientas y tecnologías disponibles para el desarrollo del sistema, además de revisar la tecnología con la cual se hará la implementación.
+Se requiere acceso al servidor actual de SAC para realizar un análisis detallado y obtener acceso remoto y al repositorio en GitHub para la gestión de versiones y el control de cambios.
+
