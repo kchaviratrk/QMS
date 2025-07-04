@@ -1,6 +1,8 @@
-# SAC - Sistema de Administración de Calidad
+# QMS - Sistema de Gestión de Calidad
 
-Este proyecto tiene como objetivo migrar y mejorar el sistema de documentación SAC de serverjz a la Intranet, cumpliendo con ISO9001:2015.
+_Este proyecto anteriormente se llamaba SAC (Sistema de Administración de Calidad)._
+
+Este proyecto tiene como objetivo migrar y mejorar el sistema de documentación QMS de serverjz a la Intranet, cumpliendo con ISO9001:2015.
 
 ## Estructura principal
 

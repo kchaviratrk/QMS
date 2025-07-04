@@ -1,4 +1,6 @@
-# Plantilla de Acta de Reunión SAC
+# Plantilla de Acta de Reunión QMS
+
+_Anteriormente conocido como SAC._
 
 **Fecha:**
 **Participantes:**

@@ -1,4 +1,6 @@
-# Definición de Hecho (Definition of Done) SAC
+# Definición de Hecho (Definition of Done) QMS
+
+_Anteriormente conocido como SAC._
 
 Un entregable se considera terminado cuando cumple con los siguientes criterios:
 

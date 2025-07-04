@@ -1,4 +1,6 @@
-# Preguntas y Respuestas - Junta de Requisitos y Kick Off SAC
+# Preguntas y Respuestas - Junta de Requisitos y Kick Off QMS
+
+_Anteriormente conocido como SAC._
 
 Fecha: 4 de julio de 2025
 

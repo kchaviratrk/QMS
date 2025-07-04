@@ -1,6 +1,8 @@
-# Roadmap SAC
+# Roadmap QMS
 
-Este documento describe las fases principales, entregables y fechas tentativas del proyecto SAC.
+_Este proyecto anteriormente se llamaba SAC._
+
+Este documento describe las fases principales, entregables y fechas tentativas del proyecto QMS.
 
 ## Fases
 

@@ -1,10 +1,12 @@
-# Plan de Proyecto SAC
+# Plan de Proyecto QMS
 
-Este documento detalla la planeación, hitos, responsables, riesgos y recursos del proyecto SAC.
+_Este proyecto anteriormente se llamaba SAC._
+
+Este documento detalla la planeación, hitos, responsables, riesgos y recursos del proyecto QMS.
 
 ## Objetivo
 
-Describir el alcance, fases y recursos necesarios para el desarrollo del sistema SAC.
+Describir el alcance, fases y recursos necesarios para el desarrollo del sistema QMS.
 
 ## Hitos y Fechas
 

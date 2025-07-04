@@ -1,4 +1,6 @@
-# Cronograma Visual SAC
+# Cronograma Visual QMS
+
+_Anteriormente conocido como SAC._
 
 | Fase                        | Fecha inicio | Fecha fin  |
 | --------------------------- | ------------ | ---------- |

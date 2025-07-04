@@ -1,6 +1,8 @@
-# Backlog Inicial SAC
+# Backlog Inicial QMS
 
-Lista de tareas iniciales priorizadas para el proyecto SAC.
+_Anteriormente conocido como SAC._
+
+Lista de tareas iniciales priorizadas para el proyecto QMS.
 
 ## Tareas
 

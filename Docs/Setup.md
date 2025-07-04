@@ -1,6 +1,8 @@
-# Guía de Instalación y Entorno SAC
+# Guía de Instalación y Entorno QMS
 
-Pasos para preparar el entorno de desarrollo del proyecto SAC.
+_Previo nombre del proyecto: SAC._
+
+Pasos para preparar el entorno de desarrollo del proyecto QMS.
 
 ## Requisitos previos
 
@@ -12,7 +14,7 @@ Pasos para preparar el entorno de desarrollo del proyecto SAC.
 ## Instalación
 
 1. Clonar el repositorio:
-   git clone https://github.com/tu-org/SAC.git
+   git clone https://github.com/tu-org/QMS.git
 2. Crear y activar entorno virtual:
    python -m venv venv
    source venv/bin/activate

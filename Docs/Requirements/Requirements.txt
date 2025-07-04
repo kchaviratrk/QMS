@@ -1,7 +1,7 @@
-# Requerimientos iniciales para el proyecto SAC
+# Requerimientos iniciales para el proyecto QMS
 
 ## Objetivo
-Migrar y mejorar el sistema de documentación SAC de serverjz a la Intranet, cumpliendo con los estándares de ISO9001:2015.
+Migrar y mejorar el sistema de documentación QMS (anteriormente SAC) de serverjz a la Intranet, cumpliendo con los estándares de ISO9001:2015.
 
 ## Alcance
 - Revisión y análisis del sistema actual (documentos y HTML).

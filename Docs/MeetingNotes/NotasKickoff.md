@@ -1,4 +1,6 @@
-# Notas Kickoff SAC
+# Notas Kickoff QMS
+
+_Anteriormente conocido como SAC._
 
 **Fecha:** 3 de julio de 2025
 

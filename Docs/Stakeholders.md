@@ -14,4 +14,4 @@ _Lista de stakeholders, roles y canales de comunicación._
 
 ## Notas
 
-Actualmente, todos los roles del proyecto son desempeñados por Kaleb Chavira.
+Actualmente, todos los roles del proyecto QMS (anteriormente SAC) son desempeñados por Kaleb Chavira.
