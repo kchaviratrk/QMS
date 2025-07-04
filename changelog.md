@@ -1,4 +1,15 @@
-# Changelog SAC
+# Changelog QMS
+
+_Este proyecto anteriormente se llamaba SAC._
+
+## 2025-07-04
+
+- Cambio global de nombre del proyecto de "SAC" a "QMS" (Quality Management System).
+- Se actualizó toda la documentación, comentarios de código, scripts y mensajes de usuario para reflejar el nuevo nombre QMS, aclarando en cada archivo que el proyecto antes se llamaba SAC.
+- Se actualizaron los stakeholders en Docs/Stakeholders.md para reflejar los roles actuales y aclarar la transición de nombre.
+- Se documentaron y aclararon las preguntas y respuestas clave de la reunión de kickoff en Docs/MeetingNotes/PreguntasKickoff.txt.
+- Se agregaron aclaraciones en todos los archivos principales de documentación y código sobre el cambio de nombre y el contexto histórico del proyecto.
+- Se mantuvo la trazabilidad y contexto de la migración para futuras auditorías y referencias.
 
 ## 2025-07-03
 
