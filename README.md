@@ -1,8 +1,8 @@
 # QMS - Quality Management System
 
-_Este proyecto utiliza TypeScript, Vite, Node.js y Python._
+_This project uses TypeScript, Vite, Node.js and Python._
 
-_Este proyecto se llamaba anteriormente SAC (Quality Management System)._
+_This project was previously called SAC (Quality Management System)._
 
 QMS aims to migrate and improve the documentation system from serverjz to the Intranet, ensuring compliance with ISO9001:2015. The project includes document control, versioning, user roles, and auditability, with a focus on usability and security.
 
