@@ -1,5 +1,5 @@
 # Manual ISO9001 QMS
 
-_Este documento corresponde al sistema QMS (anteriormente SAC)._
+This document corresponds to the QMS (formerly SAC) system.
 
-Este documento contendrá los lineamientos y procedimientos para cumplir con ISO9001:2015 en el QMS.
+This document will contain the guidelines and procedures to comply with ISO9001:2015 in the QMS.

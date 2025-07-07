@@ -1,38 +1,38 @@
-# Plan de Proyecto QMS
+# Project Plan QMS
 
-_Este proyecto anteriormente se llamaba SAC._
+_This project was previously called SAC._
 
-Este documento detalla la planeación, hitos, responsables, riesgos y recursos del proyecto QMS.
+This document details the planning, milestones, responsible parties, risks, and resources for the QMS project.
 
-## Objetivo
+## Objective
 
-Describir el alcance, fases y recursos necesarios para el desarrollo del sistema QMS.
+Describe the scope, phases, and resources needed for the development of the QMS system.
 
-## Hitos y Fechas
+## Milestones and Dates
 
-- Kickoff: 3 de julio de 2025
-- Entrega de requerimientos: 15 de julio de 2025
-- Prototipo inicial: 15 de agosto de 2025
-- MVP: 30 de septiembre de 2025
+- Kickoff: July 3, 2025
+- Requirements delivery: July 15, 2025
+- Initial prototype: August 15, 2025
+- MVP: September 30, 2025
 
-## Responsables
+## Responsible Parties
 
-- Líder de proyecto: [Nombre]
-- Equipo de desarrollo: [Nombres]
-- QA: [Nombre]
+- Project leader: [Name]
+- Development team: [Names]
+- QA: [Name]
 
-## Riesgos
+## Risks
 
-- Cambios en requerimientos
-- Falta de recursos
-- Retrasos en entregas
+- Changes in requirements
+- Lack of resources
+- Delivery delays
 
-## Recursos
+## Resources
 
-- Infraestructura: Servidores, licencias
-- Herramientas: VS Code, GitHub, Slack
+- Infrastructure: Servers, licenses
+- Tools: VS Code, GitHub, Slack
 
-## Dependencias
+## Dependencies
 
-- Integración con sistemas existentes
-- Disponibilidad de usuarios clave
+- Integration with existing systems
+- Availability of key users

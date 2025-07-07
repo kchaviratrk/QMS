@@ -1,15 +1,15 @@
-# Definición de Hecho (Definition of Done) QMS
+# Definition of Done (DoD) QMS
 
-_Anteriormente conocido como SAC._
+_Previously known as SAC._
 
-Un entregable se considera terminado cuando cumple con los siguientes criterios:
+A deliverable is considered complete when it meets the following criteria:
 
-- [ ] Cumple con los requerimientos funcionales y no funcionales
-- [ ] Ha sido revisado por al menos un miembro del equipo
-- [ ] Incluye pruebas unitarias y de integración
-- [ ] Está documentado en el README o documentación correspondiente
-- [ ] No introduce errores conocidos en el sistema
+- [ ] Meets functional and non-functional requirements
+- [ ] Has been reviewed by at least one team member
+- [ ] Includes unit and integration tests
+- [ ] Is documented in the README or corresponding documentation
+- [ ] Does not introduce known errors into the system
 
-## Notas
+## Notes
 
-Revisar y actualizar esta definición según necesidades del equipo.
+Review and update this definition as needed by the team.

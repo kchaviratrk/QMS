@@ -1,41 +1,41 @@
-# Notas Kickoff QMS
+# Kickoff Notes QMS
 
-_Anteriormente conocido como SAC._
+_Previously known as SAC._
 
-**Fecha:** 3 de julio de 2025
+**Date:** July 3, 2025
 
-- Objetivo: Revisar requerimientos para la migración y mejora del SAC.
-- Participantes:
-- Acuerdos:
+- Objective: Review requirements for the migration and improvement of SAC.
+- Participants:
+- Agreements:
 
 ---
 
-## Kick off para proyecto de mejora al SAC (ISO9001:2015)
+## Kick off for SAC improvement project (ISO9001:2015)
 
-**Fecha:** Viernes, 4 julio 2025  
-**Hora:** 1:00 – 2:00pm  
-**Plataforma:** Zoom  
+**Date:** Friday, July 4, 2025  
+**Time:** 1:00 – 2:00pm  
+**Platform:** Zoom  
 **ID:** 78111612260  
-**Contraseña:** K2Zsw4  
+**Password:** K2Zsw4  
 **Host:** jesusb@ismco.mx  
-[Enlace para unirse](https://us04web.zoom.us/j/78111612260?pwd=btbbmEMGbSZ1sfyfrIub4ip1S233Qp.1&jst=2)
+[Link to join](https://us04web.zoom.us/j/78111612260?pwd=btbbmEMGbSZ1sfyfrIub4ip1S233Qp.1&jst=2)
 
-**Instrucciones para unirse a la reunión:**
+**Instructions to join the meeting:**
 
-- 8 invitados
-- 4 confirmados (1 en sala de reuniones, 1 virtualmente)
-- 4 pendientes
+- 8 invited
+- 4 confirmed (1 in meeting room, 1 virtually)
+- 4 pending
 
-**Participantes:**
+**Participants:**
 
-- Jesus Bugarin (Organizador)
+- Jesus Bugarin (Organizer)
 - Betsabe Rodriguez
 - Kaleb Chavira
 - Casa
-- Edgar Garcia (Opcional)
+- Edgar Garcia (Optional)
 - Oficina
 - Alfredo Frias
 - Jose Alba
 - Sala Paso del Norte
-- Yobad Bierge Evertsz (Opcional)
+- Yobad Bierge Evertsz (Optional)
 - Oficina

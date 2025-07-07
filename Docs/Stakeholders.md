@@ -1,17 +1,17 @@
-# Stakeholders QMS
+# QMS Stakeholders
 
-_Lista de stakeholders, roles y canales de comunicación._
+_List of stakeholders, roles, and communication channels._
 
-| Nombre        | Rol(s)                      | Contacto                                                          | Canal principal    |
-| ------------- | --------------------------- | ----------------------------------------------------------------- | ------------------ |
-| Kaleb Chavira | Desarrollo e implementación | [kaleb@trackonomysystems.com](mailto:kaleb@trackonomysystems.com) | Slack #QMS-project |
-| Jose Alba     | IT                          | [josea@ismco.mx](mailto:josea@ismco.mx)                           | Slack #QMS-project |
-| Alfredo Frias | IT                          | [alfredofrias@ismco.mx](mailto:alfredofrias@ismco.mx)             | Slack #QMS-project |
-| Jesus Bugarin | Cliente                     | [jesusb@ismco.mx](mailto:jesusb@ismco.mx)                         | Slack #QMS-project |
-| Yobad         | Gerente de proyectos        | [yobad@ismco.mx](mailto:yobad@ismco.mx)                           | Slack #QMS-project |
-| Betsabe       | Cliente                     | [betsabe@ismco.mx](mailto:betsabe@ismco.mx)                       | Slack #QMS-project |
-| Edgar Garcia  | Gerente de ingeniería       | [edgarg@ismco.mx](mailto:edgarg@ismco.mx)                         | Slack #QMS-project |
+| Name          | Role(s)                        | Contact                                                           | Main Channel       |
+| ------------- | ------------------------------ | ----------------------------------------------------------------- | ------------------ |
+| Kaleb Chavira | Development and Implementation | [kaleb@trackonomysystems.com](mailto:kaleb@trackonomysystems.com) | Slack #QMS-project |
+| Jose Alba     | IT                             | [josea@ismco.mx](mailto:josea@ismco.mx)                           | Slack #QMS-project |
+| Alfredo Frias | IT                             | [alfredofrias@ismco.mx](mailto:alfredofrias@ismco.mx)             | Slack #QMS-project |
+| Jesus Bugarin | Client                         | [jesusb@ismco.mx](mailto:jesusb@ismco.mx)                         | Slack #QMS-project |
+| Yobad         | Project Manager                | [yobad@ismco.mx](mailto:yobad@ismco.mx)                           | Slack #QMS-project |
+| Betsabe       | Client                         | [betsabe@ismco.mx](mailto:betsabe@ismco.mx)                       | Slack #QMS-project |
+| Edgar Garcia  | Engineering Manager            | [edgarg@ismco.mx](mailto:edgarg@ismco.mx)                         | Slack #QMS-project |
 
-## Notas
+## Notes
 
-Actualmente, todos los roles del proyecto QMS (anteriormente SAC) son desempeñados por Kaleb Chavira.
+Currently, all roles in the QMS project (formerly SAC) are performed by Kaleb Chavira.

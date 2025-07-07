@@ -1,15 +1,15 @@
-# Cronograma Visual QMS
+# Visual Schedule QMS
 
-_Anteriormente conocido como SAC._
+_Previously known as SAC._
 
-| Fase                        | Fecha inicio | Fecha fin  |
-| --------------------------- | ------------ | ---------- |
-| Planeación y requerimientos | 03/07/2025   | 15/07/2025 |
-| Diseño y prototipos         | 16/07/2025   | 15/08/2025 |
-| Desarrollo inicial          | 16/08/2025   | 30/09/2025 |
-| Pruebas y validación        | 01/10/2025   | 31/10/2025 |
-| Despliegue y capacitación   | 01/11/2025   | 15/11/2025 |
+| Phase                     | Start Date | End Date   |
+| ------------------------- | ---------- | ---------- |
+| Planning and requirements | 07/03/2025 | 07/15/2025 |
+| Design and prototypes     | 07/16/2025 | 08/15/2025 |
+| Initial development       | 08/16/2025 | 09/30/2025 |
+| Testing and validation    | 10/01/2025 | 10/31/2025 |
+| Deployment and training   | 11/01/2025 | 11/15/2025 |
 
-## Notas
+## Notes
 
-Este cronograma es tentativo y puede ajustarse.
+This schedule is tentative and may be adjusted.
