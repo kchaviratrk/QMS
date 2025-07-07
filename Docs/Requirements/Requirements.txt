@@ -1,21 +1,21 @@
-# Requerimientos iniciales para el proyecto QMS
+# Initial requirements for the QMS project
 
-## Objetivo
-Migrar y mejorar el sistema de documentación QMS (anteriormente SAC) de serverjz a la Intranet, cumpliendo con los estándares de ISO9001:2015.
+## Objective
+Migrate and improve the QMS documentation system (formerly SAC) from serverjz to the Intranet, complying with ISO9001:2015 standards.
 
-## Alcance
-- Revisión y análisis del sistema actual (documentos y HTML).
-- Diseño de una solución centralizada y accesible en la Intranet.
-- Implementación de control de versiones y permisos.
-- Cumplimiento de ISO9001:2015.
+## Scope
+- Review and analysis of the current system (documents and HTML).
+- Design of a centralized and accessible solution on the Intranet.
+- Implementation of version control and permissions.
+- Compliance with ISO9001:2015.
 
-## Requerimientos funcionales
-- Acceso seguro y controlado a la documentación.
-- Búsqueda eficiente de documentos.
-- Registro de cambios y versiones.
-- Interfaz amigable para usuarios y administradores.
+## Functional requirements
+- Secure and controlled access to documentation.
+- Efficient document search.
+- Change and version tracking.
+- User and administrator-friendly interface.
 
-## Requerimientos no funcionales
-- Seguridad y respaldo de la información.
-- Facilidad de mantenimiento y escalabilidad.
-- Compatibilidad con navegadores modernos.
+## Non-functional requirements
+- Information security and backup.
+- Ease of maintenance and scalability.
+- Compatibility with modern browsers.
