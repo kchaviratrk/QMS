@@ -35,8 +35,8 @@ QMS aims to migrate and improve the documentation system from serverjz to the In
 1. Clone the repository
 2. Set up the Python environment (see `Docs/Setup.md`)
 3. Install Python dependencies listed in `Docs/Requirements/Requirements.txt`
-4. Install Node.js dependencies: `npm install` (requiere Node.js y npm)
-5. Para desarrollo frontend, usa Vite: `npm run dev`
+4. Install Node.js dependencies: `npm install` (requires Node.js and npm)
+5. For frontend development, use Vite: `npm run dev`
 6. Run scripts or the main app as needed
 
 ## Contributing
