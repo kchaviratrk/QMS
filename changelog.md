@@ -2,6 +2,19 @@
 
 _This project was previously called SAC._
 
+## 2025-07-09
+
+- Expanded and detailed functional and non-functional requirements in Docs/Requirements/Requirements.md, including manufacturing-specific modules, audit management, and Windows Server 2019 compatibility.
+- Created Docs/Diagrams/ folder with .drawio files and Markdown templates for use case, class, process flow, and architecture diagrams.
+- Added detailed diagram documentation in Docs/Diagrams/README.md to guide modeling and documentation for QMS/SAC.
+- System now explicitly supports internal and external audits, with modules and requirements for evidence export and secure access for auditors/clients.
+
+## 2025-07-09 (EN/ES README split)
+
+- The main README.md is now in English only.
+- Created LEEME.md as the official Spanish translation of README.md.
+- All future updates to project introduction and instructions will be maintained in both files.
+
 ## 2025-07-04
 
 - Global project name change from "SAC" to "QMS" (Quality Management System).
