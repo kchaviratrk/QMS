@@ -2,6 +2,11 @@
 
 _This project was previously called SAC._
 
+## 2025-07-10
+
+- Access to the server hosting the system has been established.
+- All essential files from the original SAC system have been downloaded and are now stored in the SISTEMA DE CALIDAD folder.
+
 ## 2025-07-09
 
 - Expanded and detailed functional and non-functional requirements in Docs/Requirements/Requirements.md, including manufacturing-specific modules, audit management, and Windows Server 2019 compatibility.
