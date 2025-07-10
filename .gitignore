@@ -1,0 +1,13 @@
+# Ignorar archivos de documentos
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.odt
+*.ods
+*.odp
+*.rtf
+*.txt
