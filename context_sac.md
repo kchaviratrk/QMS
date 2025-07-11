@@ -5,7 +5,7 @@ Sistema operativo: macOS
 
 ## Estructura actual del workspace
 
-```
+```plaintext
 changelog.md
 CODE_OF_CONDUCT.md
 context_sac.md
@@ -17,70 +17,70 @@ README.md
 ROADMAP.md
 SECURITY.md
 Code/
-	backend-node/
-	backend-python/
-	frontend/
+    backend-node/
+    backend-python/
+    frontend/
 Docs/
-	Backlog.md
-	DefinitionOfDone.md
-	ProjectPlan.md
-	Schedule.md
-	Setup.md
-	Stakeholders.md
-	Diagrams/
-	ISO9001/
-	MeetingNotes/
-	Requirements/
+    Backlog.md
+    DefinitionOfDone.md
+    ProjectPlan.md
+    Schedule.md
+    Setup.md
+    Stakeholders.md
+    Diagrams/
+    ISO9001/
+    MeetingNotes/
+    Requirements/
 scripts/
-	script_utils.sh
+    script_utils.sh
 SISTEMA DE CALIDAD/
-	[INDICE DE DOCUMENTOS DE CONSULTA.htm
-	~$dice de Alertas de Calidad..htm
-	adapterplatinumgreen - Ivenn Duran.SLDPRT
-	Auditorias 2024.htm
-	BUSCAS AUDITORIAS DE ANOS ATRAS.htm
-	CATALOGO DE TAPES.htm
-	CONSULTAR EN “ESTACION DE CONSULTA”.htm
-	GREEN TAPE.htm
-	INDICE CAPAS INTERNAS Y EXTERNAS 2024.htm
-	INDICE CAPAS INTERNAS Y EXTERNAS.htm
-	Indice CRITERIOS DE ACEPTACION CALIDAD.htm
-	Indice de Alertas de Calidad..htm
-	Indice de Auditorias Internas del 2022.htm
-	INDICE DE CAPAS EXTERNAS 2022.htm
-	INDICE DE CAPAS EXTERNAS 2024.htm
-	INDICE DE CAPAS EXTERNAS.htm
-	INDICE DE CAPAS INTERNAS 2024.htm
-	INDICE DE CAPAS INTERNAS.htm
-	INDICE DE CAPAS.htm
-	INDICE DE DOCUMENTOS EXTERNOS.htm
-	ÍNDICE DE FAIs.htm
-	Indice de Formatos  de  CALIBRACION.htm
-	Indice de Formatos  de  Calidad.htm
-	Indice de Formatos  de  Compras.htm
-	Indice de Formatos  de  EHS.htm
-	Indice de Formatos  de  Embarques.htm
-	Indice de Formatos  de  INGENIERIA.htm
-	Indice de Formatos  de  IT.htm
-	Indice de Formatos  de  MANTENIMIENTO.htm
-	Indice de Formatos  de  Planeacion.htm
-	Indice de Formatos  de  PRODUCCION.htm
-	Indice de Formatos  de  Sistemas de Calidad.htm
-	Indice de Formatos  de almacen.htm
-	Indice de Formatos  de Recursos Humanos.htm
-	Indice de Formatos entrenamiento.htm
-	Indice de Formatos.htm
-	Indice de Instruccion IT.htm
-	INDICE DE INSTRUCCIONES  LIME TAPE.htm
-	INDICE DE INSTRUCCIONES DE ALMACEN.htm
-	Indice de Instrucciones de AYUDAS VISUALES..htm
-	Indice de Instrucciones de AYUDAS VISUALES.htm
-	INDICE DE INSTRUCCIONES DE BATTERY PANEL.htm
-	INDICE DE INSTRUCCIONES DE BLACK TAPE 1A4.htm
-	INDICE DE INSTRUCCIONES DE C1D2 E-SEAL.htm
-	...
+    [INDICE DE DOCUMENTOS DE CONSULTA.htm
+    ~$dice de Alertas de Calidad..htm
+    adapterplatinumgreen - Ivenn Duran.SLDPRT
+    Auditorias 2024.htm
+    BUSCAS AUDITORIAS DE ANOS ATRAS.htm
+    CATALOGO DE TAPES.htm
+    CONSULTAR EN “ESTACION DE CONSULTA”.htm
+    GREEN TAPE.htm
+    INDICE CAPAS INTERNAS Y EXTERNAS 2024.htm
+    INDICE CAPAS INTERNAS Y EXTERNAS.htm
+    Indice CRITERIOS DE ACEPTACION CALIDAD.htm
+    Indice de Alertas de Calidad..htm
+    Indice de Auditorias Internas del 2022.htm
+    INDICE DE CAPAS EXTERNAS 2022.htm
+    INDICE DE CAPAS EXTERNAS 2024.htm
+    INDICE DE CAPAS EXTERNAS.htm
+    INDICE DE CAPAS INTERNAS 2024.htm
+    INDICE DE CAPAS INTERNAS.htm
+    INDICE DE CAPAS.htm
+    INDICE DE DOCUMENTOS EXTERNOS.htm
+    ÍNDICE DE FAIs.htm
+    Indice de Formatos  de  CALIBRACION.htm
+    Indice de Formatos  de  Calidad.htm
+    Indice de Formatos  de  Compras.htm
+    Indice de Formatos  de  EHS.htm
+    Indice de Formatos  de  Embarques.htm
+    Indice de Formatos  de  INGENIERIA.htm
+    Indice de Formatos  de  IT.htm
+    Indice de Formatos  de  MANTENIMIENTO.htm
+    Indice de Formatos  de  Planeacion.htm
+    Indice de Formatos  de  PRODUCCION.htm
+    Indice de Formatos  de  Sistemas de Calidad.htm
+    Indice de Formatos  de almacen.htm
+    Indice de Formatos  de Recursos Humanos.htm
+    Indice de Formatos entrenamiento.htm
+    Indice de Formatos.htm
+    Indice de Instruccion IT.htm
+    INDICE DE INSTRUCCIONES  LIME TAPE.htm
+    INDICE DE INSTRUCCIONES DE ALMACEN.htm
+    Indice de Instrucciones de AYUDAS VISUALES..htm
+    Indice de Instrucciones de AYUDAS VISUALES.htm
+    INDICE DE INSTRUCCIONES DE BATTERY PANEL.htm
+    INDICE DE INSTRUCCIONES DE BLACK TAPE 1A4.htm
+    INDICE DE INSTRUCCIONES DE C1D2 E-SEAL.htm
+    ...
 src/
-	...
+    ...
 tests/
 ```
 
@@ -145,16 +145,16 @@ Este archivo resume el estado actual y la estructura del workspace para referenc
 
 Este contexto sirve como base para el desarrollo, migración y mejora del sistema QMS/SAC. Para detalles técnicos y ejemplos, consulta los archivos en Docs/ y la estructura del repositorio.
 
-# Resumen de migración y desarrollo QMS/SAC
+## Resumen de migración y desarrollo QMS/SAC
 
-## Estado actual (SAC en SISTEMA DE CALIDAD)
+### Estado actual (SAC en SISTEMA DE CALIDAD)
 
 - El sistema SAC está compuesto por archivos estáticos (HTML, XML, Word, Excel, etc.) organizados por departamentos y tipos de documentos.
 - No existe integración de usuarios, permisos, ni backend; la gestión documental es manual y no centralizada.
 - Los archivos contienen procedimientos, formatos, instrucciones y registros, pero no hay lógica de negocio ni interacción dinámica.
 - No hay base de datos, autenticación, ni API; todo es consulta y edición manual.
 
-## Objetivo del nuevo sistema (QMS en Code/)
+### Objetivo del nuevo sistema (QMS en Code/)
 
 - Migrar y mejorar las funcionalidades útiles del SAC, integrando todo en una arquitectura moderna y centralizada.
 - El desarrollo se realizará en el folder Code/ usando:
@@ -165,7 +165,7 @@ Este contexto sirve como base para el desarrollo, migración y mejora del sistem
   - API REST para integración y automatización
   - Interfaz intuitiva y segura, con control de acceso y trazabilidad
 
-## Proceso sugerido
+### Proceso sugerido
 
 1. Analizar y documentar las funcionalidades y procesos clave del SAC que deben migrarse/mejorarse.
 2. Definir la estructura inicial del nuevo sistema en Code/ (carpetas, módulos, endpoints, modelos de datos).
@@ -174,14 +174,14 @@ Este contexto sirve como base para el desarrollo, migración y mejora del sistem
 5. Migrar los documentos y datos relevantes del SAC al nuevo sistema.
 6. Validar, probar y documentar todo el proceso.
 
-## Recursos útiles
+### Recursos útiles
 
 - [React Quick Start](https://reactjs.org/docs/getting-started.html): Componentes, JSX, manejo de estado, eventos, listas, estilos.
 - [Node.js Docs](https://nodejs.org/en/docs/): Módulos, HTTP, File System, API, procesos.
 - [Express Docs](https://expressjs.com/en/starter/installing.html): Instalación, rutas, middlewares, estructura de proyecto.
 - [VS Code API](https://code.visualstudio.com/api): Para futuras integraciones o extensiones VS Code.
 
-## Siguiente paso
+### Siguiente paso
 
 - Definir la estructura inicial del folder Code/ y los módulos principales del nuevo QMS.
 - Documentar los procesos y funcionalidades a migrar/mejorar.
