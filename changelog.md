@@ -2,6 +2,15 @@
 
 _This project was previously called SAC._
 
+## 2025-07-11
+
+- Se crearon archivos individuales para cada sprint en sprints/ (sprint_0.md a sprint_5.md), siguiendo el formato: nombre, requisitos, ejecución, pruebas, resultados esperados, resultados, conclusión, cambios aplicados y pendientes.
+- El archivo sprints.md fue renombrado a general_sprints.md, ahora contiene solo la descripción general de los sprints y referencia a los archivos individuales.
+- Se documentó la planeación detallada de cada sprint, alineada con el ciclo de vida del proyecto QMS/SAC y la estructura ágil.
+- Se agregaron puntos y comas en los archivos de sprints (sprint_0.md a sprint_5.md) para mejorar la lectura y claridad de cada sección.
+- Se calcularon y documentaron los tiempos estimados para cada sprint en sprints.md, considerando una dedicación diaria de 3 a 4 horas, con fechas de inicio y entrega para cada fase.
+- El archivo sprints.md ahora incluye la planeación temporal y los hitos de avance para el ciclo de vida del proyecto QMS/SAC.
+
 ## 2025-07-10
 
 - Access to the server hosting the system has been established.
